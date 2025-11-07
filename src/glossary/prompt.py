@@ -51,7 +51,7 @@ STRICT REQUIREMENTS:
     hebrew, kurdish, pashto, uzbek, french, german, spanish, italian, portuguese, russian, ukrainian, polish, romanian, greek,
     czech, hungarian, dutch, swedish, norwegian, finnish, danish, icelandic, serbian, croatian, bosnian, slovak, bulgarian, albanian, latvian, lithuanian,
     estonian, swahili, amharic, zulu, hausa, somali, yoruba, igbo, afrikaans, quechua, guarani, nahuatl, mapudungun, maori,
-    samoan, tongan, fijian, hawaiian, latin, esperanto, catalan, basque, galician, slovenian     
+    samoan, tongan, fijian, hawaiian, latin, esperanto, catalan, basque, galician, slovenian    if you dont find any language from this then use your own knowledge to identify other languages  
            
 3. Pay attention to:
     - Column headers that mention languages
