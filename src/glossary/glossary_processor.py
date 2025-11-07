@@ -1453,7 +1453,7 @@ def add_glossary(source_language: str, list_target_languages: list, pdf_path: st
     print("\n[STEP 6] Extracting glossary entries (PARALLEL PROCESSING)...")
     extraction_start = time.time()
     
-    all_entries = extract_glossary_parallel(                                                                                #here the extract glossary function is being called
+    all_entries = extract_glossary_parallel(                                                                                #HERE the extract glossary function is being called
         extracted_images,
         llm,
         source_language,
