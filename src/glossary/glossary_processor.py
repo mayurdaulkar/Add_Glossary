@@ -997,7 +997,7 @@ def detect_languages(raw_text: str, llm: ChatOpenAI) -> list:
             json_str = json_match.group(0)
             languages = json.loads(json_str)
             
-            # Accept ANY detected language without restriction
+            # Accept ANY detected Language without restriction
             detected_languages = []
             for lang in languages:
                 if isinstance(lang, str):
